@@ -192,22 +192,22 @@ The first Bitcoin address used under this key tree would be `m/44'/0'/0'/0/0`.
 # BTC
 m/44'/0'/9'/0/2 (Account 10, Address 3)
 m/44'/0'/1000'/0/33 (Account 1001, Address 34)
-m/44'/0'/5'/1/9 (Account 10, Change Address 10)
+m/44'/0'/5'/1/9 (Account 6, Change Address 10)
 
 # ETC
 m/44'/61'/9'/0/2 (Account 10, Address 3)
 m/44'/61'/1000'/0/33 (Account 1001, Address 34)
-m/44'/61'/5'/1/9 (Account 10, Change Address 10)
+m/44'/61'/5'/1/9 (Account 6, Change Address 10)
 
 # ETH
 m/44'/60'/9'/0/2 (Account 10, Address 3)
 m/44'/60'/1000'/0/33 (Account 1001, Address 34)
-m/44'/60'/5'/1/9 (Account 10, Change Address 10)
+m/44'/60'/5'/1/9 (Account 6, Change Address 10)
 
 # DOGE
 m/44'/3'/9'/0/2` (Account 10, Address 3)
 m/44'/3'/1000'/0/33` (Account 1001, Address 34)
-m/44'/3'/5'/1/9` (Account 10, Change Address 10)
+m/44'/3'/5'/1/9` (Account 6, Change Address 10)
 ```
 
 ### Path Recording
