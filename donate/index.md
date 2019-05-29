@@ -21,6 +21,9 @@ As this community evolves, more benefits will be added to the community dependin
 * Future features
 * Giveaways
 
-Want to become a donor?  Contact us:
+## Become a donor
+
+Contact us via one of the following methods:
+
 * Email:  goat (at) goat . team
 * Discord: MikO#8333
