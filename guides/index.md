@@ -9,3 +9,4 @@ permalink:  /guides/index
 ## Wallet / Address Management
 
 * [Wallet Management](/guides/wallet-management)
+* Offline MEW (MyEtherWallet) - Coming Soon!
