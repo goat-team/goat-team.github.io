@@ -239,6 +239,13 @@ a {
   color: #5c772a;
 }
 
+a:hover {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(138, 245, 51, 0.3);
+  text-decoration: underline;
+  color: #5c772a;
+}
+
 /* Clearfix */
 
 .cf:before, .cf:after {
